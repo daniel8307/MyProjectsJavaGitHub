@@ -4,11 +4,11 @@ public class FacadePattern {
 	public static void main(String[] args) {
 		System.out.println("Facade Pattern Demonstration.");
 		System.out.println("-----------------------------");
-//		Construct and call Façade
+//		Construct and call Faï¿½ade
 		System.out.println("Constructing facade.");
-		Facade façade = new Facade();
+		Facade facade = new Facade();
 		System.out.println("Calling facade.processOrder().");
-		façade.processOrder();
+		facade.processOrder();
 		System.out.println();
 	}
 }
