@@ -1,24 +1,23 @@
-
 public class Dog {
 	private String bodyColor;
 	private String eyeColor;
-	private float height;																																										
+	private float height;
 	private float size;
 	private float large;
-	
-	public void shakeTail(){
+
+	public void shakeTail() {
 		System.out.println("Shaking tail...");
 	}
-	
-	public void bark(){
+
+	public void bark() {
 		System.out.println("Uau uau uau...");
 	}
-	
-	public void layDown(){
+
+	public void layDown() {
 		System.out.println("Laying down...");
 	}
 
-	public void sit(){
+	public void sit() {
 		System.out.println("Sitting down...");
 	}
 
